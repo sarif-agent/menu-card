@@ -25,3 +25,18 @@ h1 {
 p {
     margin-bottom: 20px;
 }
+
+
+.recipe-card {
+    width: 400px;
+    text-align: center;
+    background-color: darkgrey;
+    margin: 20px auto;
+    padding: 50px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, -5);
+}
+
+.recipe-content {
+    text-align: left;
+    padding: 20px;
+}
