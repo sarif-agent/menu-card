@@ -1,2 +1,2 @@
-# Menu Card
-A basic menu card project where I'm trying out what I've learned with CSS Box Model and Flexbox.  
+# Menu Card 
+I've tried some of the new tricks that i have learned with the CSS box model and flexbox. However, nothing new here. A basic project which i attempt to do a recipe card. (bruh)
